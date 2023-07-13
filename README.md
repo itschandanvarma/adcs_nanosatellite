@@ -32,4 +32,4 @@ The visualization files, "ADCS Simulation Window.png", "MRP Plot.png", and "Omeg
 
 Please refer to the respective files for a detailed view of the simulation results and visualizations.
 
-![ADCS Simulation Window](./ADCS Simulation Window.png)
+![ADCS Simulation Window](ADCS%20Simulation%20Window.png)
